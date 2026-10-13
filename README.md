@@ -18,3 +18,4 @@ To get a single file, e.g. in Colab:
 | Directory | Model | License |
 | --- | --- | --- |
 | [`riad-unet-mvtec`](riad-unet-mvtec) | RIAD U-Net for visual anomaly detection, trained on MVTec AD | CC BY-NC-SA 4.0 |
+| [`press-extraction-lora-qwen3-0.6b`](press-extraction-lora-qwen3-0.6b) | Qwen3-0.6B LoRA adapters extracting the entities of 1914 press passages | Apache 2.0 |
